@@ -5,6 +5,7 @@ Steps to Setup
 1. Clone the repository
 
 git clone https://github.com/shaun-stewart/postgres-demo.git
+
 2. Configure PostgreSQL
 
 First, create a database named postgres_demo. Then, open src/main/resources/application.properties file and change the spring datasource username and password as per your PostgreSQL installation.
